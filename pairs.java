@@ -40,7 +40,7 @@
 // 1 <= nums[i] <= 9999
 // nums[i] % 10 != 0
 
-public class Pairs{
+public class pairs{
       public int countBeautifulPairs(int[] nums) {
         int count=0;
         for (int i=0; i<nums.length;i++) {
