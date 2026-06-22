@@ -27,7 +27,7 @@
 // 1 <= sentence.length <= 1000
 // sentence consists of lowercase English letters.
 
-public class sentencecheck{
+public class sentencescheck{
     public boolean checkIfPangram(String sentence) {
         
         for(char ch = 'a'; ch <= 'z'; ch++) {
